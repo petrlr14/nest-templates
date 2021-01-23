@@ -82,8 +82,7 @@
   "lint-staged": {
     "*.ts": [
       "npm run format",
-      "eslint --cache --fix",
-      "git add"
+      "eslint --cache --fix"
     ]
   }
 }

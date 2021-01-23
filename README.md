@@ -4,8 +4,9 @@ This repository contains different [Nest](https://github.com/nestjs/nest) recipe
 
 ## Whats in this tamplate
 
-- Env configuration with [@nestjs/config](https://docs.nestjs.com/techniques/configuration) for configuration loading and [joi](https://joi.dev/) for data validation
-- [morgan](https://github.com/expressjs/morgan#readme) for request logging
+- Env configuration with [@nestjs/config](https://docs.nestjs.com/techniques/configuration) for configuration loading and [joi](https://joi.dev/) for data validation.
+- [morgan](https://github.com/expressjs/morgan#readme) for request logging.
+- [lint-staged](https://github.com/okonet/lint-staged#configuration). Using Husky, prettier and eslint to ensure code quality.
 
 ## Installation
 
